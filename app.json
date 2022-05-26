@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "House Tripping",
+    "slug": "house_tripping",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appicon.png",
+    "splash": {
+      "image": "./assets/images/splash_imag.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pix.housetripping",
+      "buildNumber":"2"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appicon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.pix.housetripping",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/appicon.png"
+    }
+  }
+}

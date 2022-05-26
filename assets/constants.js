@@ -1,0 +1,10 @@
+export default {
+    AppColor: {
+        LINEAR_GRADIENT_COLOR_BUTTON:['#E683AF', '#7ACACB', '#77A1D3'],
+        LINEAR_GRADIENT_COLOR_HOME_FEED:['#000000', '#00000000'],
+        TEXT_COLOR: '#77A1D3',
+        BUTTON_BORDER_COLOR: '#77A1D3',
+        FLEX_GRADIENT_BACK_COLOR:['#F7EFFA','#FEFAF9'],
+    },
+    
+};
